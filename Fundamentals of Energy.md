@@ -96,5 +96,5 @@ Although vitamins and minerals do not provide calories, they are essential in th
 - **Metabolism:** People with a faster metabolism burn more energy at rest.
 - **Health Conditions:** Illness or injury may increase energy needs due to the body’s healing processes.
 
-Energy from Food vs. Supplements
+# Energy from Food vs. Supplements
 While the body can derive energy from food, some people turn to energy supplements (like energy drinks, bars, or caffeine) to boost energy levels. However, food provides a more balanced and sustainable energy source because it contains a broader range of nutrients. Supplements, on the other hand, may give a quick energy boost but often lack the comprehensive nutritional benefits provided by whole foods.
